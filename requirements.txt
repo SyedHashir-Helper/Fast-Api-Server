@@ -1,0 +1,6 @@
+tensorflow==2.17.1
+fastapi
+uvicorn
+matplotlib
+numpy
+keras==3.5.0
